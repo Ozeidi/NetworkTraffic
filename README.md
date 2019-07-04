@@ -33,4 +33,8 @@ Before conducting the above transformation, we have a series of preparation step
 4. Combine Up/Down Traffic into Total Traffic variable
 
 ## Insights
-We use the the previously transformed dataset to genereatr a set of 
+We use the the previously transformed dataset to genereatr a set of informative visulaisations.
+1. Total Network Traffic per hour of the day: This shows expected pattern of increased activity during the working hours from 7am - 2pm.
+
+2. Mean Network Traffic Faceted Plot: This plot shows the mean network traffic hour of the day for each weekday. Interestingly there was a presistent trough in traffic around 10am daily. Up on further inspection this trough happens to reflect employees habit of having breakfast/coffee every day around the same time.
+
