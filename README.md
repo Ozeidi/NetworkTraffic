@@ -35,7 +35,7 @@ Before conducting the above transformation, we have a series of preparation step
 ## Insights
 We use the the previously transformed dataset to genereatr a set of informative visulaisations.
 1. Total Network Traffic per hour of the day: This shows expected pattern of increased activity during the working hours from 7am - 2pm.
-![Hourly Patter](https://github.com/Ozeidi/NetworkTraffic/blob/master/imgs/Traffic%20Weekly%20Pattern.png)
+![Hourly Patter](https://github.com/Ozeidi/NetworkTraffic/blob/master/imgs/Sum%20of%20Total%20Traffic%20Per%20Hour.png)
 2. Mean Network Traffic Faceted Plot: This plot shows the mean network traffic hour of the day for each weekday. Interestingly there was a presistent trough in traffic around 10am daily. Up on further inspection this trough happens to reflect employees habit of having breakfast/coffee every day around the same time.
-![Weekly Pattern]()
+![Weekly Pattern](https://github.com/Ozeidi/NetworkTraffic/blob/master/imgs/Traffic%20Weekly%20Pattern.png)
 3. The above graphs shows some background activity during weekends and outside working hours, which happen to be from scheduled IT tasks and CCTV system.
